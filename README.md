@@ -11,7 +11,7 @@ Dieses Projekt enthält einen einfachen Python-Code, der die OpenAI API nutzt.
 
 Liste hier alle Voraussetzungen auf, die für die Verwendung deines Codes notwendig sind. Zum Beispiel:
 
-- Python (Version X.X)
+- Python (Version 3.9)
 - Sie müssen über einen OpenAI API-Schlüssel verfügen, den Sie in der Variablen API_KEY im Code einsetzen müssen.
 - OpenAI Python-Bibliothek (installiere es mit `pip install openai`)
 
